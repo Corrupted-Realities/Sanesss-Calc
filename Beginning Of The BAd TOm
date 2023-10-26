@@ -11,3 +11,13 @@ elif SANESS == 'subtraction':
     BAD_TEMZ_EXECUTE2 = float (input("EHH EXEcute Mooi Tommzz RIGHt Nawww T_T"))
     BAD_TOM_FINAL_TOM_ATTACK_SUM = (BAD_TEMZ_EXECUTE1-BAD_TEMZ_EXECUTE1)
     print (F"UHHHHH NOW WE HAVEEEE EVAANNN LESSSS TEMZ TO SUPPORT ouR MenT@l StaTe whateVEr..Just take your sCOrE AlrEEEADYy {BAD_TOM_FINAL_TOM_ATTACK_SUM}")
+elif SANESS == 'multiplication':
+    print ("I FEeLLL So MUcHH DisapPoiNtad In you, You JUUUSSST crashed My PhoLeEE Project and Kepp Forciing me TA Updato JUST Give me Toms and Temz for MultilpliCATIION !!!11!")
+    BAD_SANESSSS_MULTIPLACATIIOONNN1 = float (input("AAAA OOO Multiplicateee my TEEMEZ UwU !1!!1"))
+    BAD_SANESSSS_MULTIPLACATIIOONNN2 = float (input("I love yellow and blue lines together ^_^ We need a country with this flag OwO"))
+    BAD_TOM_FINAL_TOM_ATTACK_MULTIPLICAAAATIOONN = (BAD_SANESSSS_MULTIPLACATIIOONNN1 * BAD_SANESSSS_MULTIPLACATIIOONNN2)
+    print (F"UHHH YOU MUPLiPliC@ted the TOmS and tEmS whateeeveereer whyyy you AAree sOO EvIILL:3 {BAD_TOM_FINAL_TOM_ATTACK_MULTIPLICAAAATIOONN}")
+elif SANNES == 'division':
+    print ("JESSUS why you nEED to do Something even WorSEE TheNNN EXEcution..? SAnnESS Unhappy Q_Q")
+    BAD_BAD_TEMS_DIVISION1 = float (input("nuuuu dooonnttt OOF me please"))
+    BAD_BAD_TEMS_DIVISION1 = float (input("nuuuu dooonnttt Reset CHARActeer meeee please"))
