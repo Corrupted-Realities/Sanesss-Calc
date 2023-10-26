@@ -1,1 +1,13 @@
-
+SANESS = input("AAAAAAAAAA YOU AREEE ANNOYING TO MY BAD TOMS AND I HATE YOU SO MUCHH FOR FORCING mE To UPDATE THE wIndOWs WHILE PAtHETIc COmpurer Prefer a Blue SCreen Of DeATh OVer My BAd TEmz now just say it already and let toms give you a bad TIEM: sum, subtraction, multiplacation, division or GET MY BAD TOMSS NOw U_U")
+if SANESS == 'sum':
+    print ("BAD TEMZZ awaytinggg yaaa and i wanT YOU To gET MORE OF tHME tOAGETHER")
+    BAD_TOM_SUM1 = float (input ("FIRST TEMMZZZZ ((((("))
+    BAD_TOM_SUM2 = float (input ("SECANNND TEMMZZZZ Q_Q"))
+    BAD_TOM_FINAL_TOM_ATTACK_SUM = (BAD_TOM_SUM1 + BAD_TOM_SUM2)
+    print (F"AAAA YoU ARe ANNOYING BEcaaause you crashed my pc, and IIII Soo S@DDD whatever Here ISss your TAMZ {BAD_TOM_FINAL_TOM_ATTACK_SUM} T_T ")
+elif SANESS == 'subtraction':
+    print ("TEMZ IS UNHAPPY, WHY ARE YOU WANT TO exeCUTE USSS ")
+    BAD_TEMZ_EXECUTE1 = float (input("AHHH exeCUTE Mai TEmmzz Already Q_Q"))
+    BAD_TEMZ_EXECUTE2 = float (input("EHH EXEcute Mooi Tommzz RIGHt Nawww T_T"))
+    BAD_TOM_FINAL_TOM_ATTACK_SUM = (BAD_TEMZ_EXECUTE1-BAD_TEMZ_EXECUTE1)
+    print (F"UHHHHH NOW WE HAVEEEE EVAANNN LESSSS TEMZ TO SUPPORT ouR MenT@l StaTe whateVEr..Just take your sCOrE AlrEEEADYy {BAD_TOM_FINAL_TOM_ATTACK_SUM}")
